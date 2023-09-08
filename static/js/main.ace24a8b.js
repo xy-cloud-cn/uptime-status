@@ -8739,15 +8739,13 @@
                     }), (0, i.jsxs)("div", {
                         id: "footer",
                         children: [(0, i.jsxs)("p", {
-                            children: ["\u57fa\u4e8e ", (0, i.jsx)(l, {
+                            children: ["Powered By ", (0, i.jsx)(l, {
                                 to: "https://uptimerobot.com/",
                                 text: "UptimeRobot"
-                            }), " \u63a5\u53e3\u5236\u4f5c\uff0c\u68c0\u6d4b\u9891\u7387 5 \u5206\u949f"]
-                        }), (0, i.jsxs)("p", {
-                            children: ["\xa9 2020 ", (0, i.jsx)(l, {
-                                to: "https://status.org.cn/",
-                                text: "STATUS.ORG.CN"
-                            }), ", Version ", xn]
+                            }), " and ", (0, i.jsx)(l, {
+                                to: "https://github.com/yb/uptime-status",
+                                text: "Uptime Status"
+                            })]
                         })]
                     })]
                 })]

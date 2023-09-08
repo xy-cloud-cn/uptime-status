@@ -17,7 +17,7 @@ a {
 
 #app .container {
     margin: 0 auto;
-    max-width: 980px;
+    max-width: 1080px;
     padding: 0 20px;
     width: 100%
 }
@@ -54,7 +54,7 @@ a {
 
 #uptime {
     background-color: #fff;
-    border-radius: 10px;
+    border-radius: 12px;
     box-shadow: 0 10px 30px rgba(0, 0, 0, .1);
     margin-bottom: 40px;
     margin-top: -30px;
@@ -133,19 +133,19 @@ a {
 }
 
 #uptime .site .timeline i {
-    border-radius: 5px;
+    border-radius: 6px;
     flex-grow: 1;
-    height: 25px;
+    height: 40px;
     margin: 0 1px;
     transition: opacity .15s ease
 }
 
 #uptime .site .timeline i.ok {
-    background-color: #3bd672
+    background-color: #26c2ff
 }
 
 #uptime .site .timeline i.down {
-    background-color: #de484a
+    background-color: #ce2463
 }
 
 #uptime .site .timeline i.none {
@@ -189,7 +189,7 @@ a {
 }
 
 #footer a {
-    color: #3bd672;
+    color: #26c2ff;
     font-weight: 700
 }
 
